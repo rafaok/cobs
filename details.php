@@ -848,7 +848,7 @@ if (isset($_GET["id"]) && !empty(trim($_GET["id"]))) {
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>Copyright &copy; PT. Jasa Guna Cemerlang 2019</span>
+            <span>Copyright &copy;</span>
           </div>
         </div>
       </footer>
